@@ -16,7 +16,7 @@ provider "azurerm" {
     }
     
 resource "azurerm_resource_group" "demo" {
-  name     = "ManojResource"
+  name     = "ragaresource"
   location = "West US"
 }
 
